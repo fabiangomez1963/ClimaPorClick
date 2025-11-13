@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from .ClimaPorClick import ClimaPorClickPlugin
+from .ClimaPorClick import ClimaPorClick
 
 def classFactory(iface):
-    """Carga el complemento ClimaPorClick."""
-    return ClimaPorClickPlugin(iface)
+    """QGIS exige esta función."""
+    return ClimaPorClick(iface)
