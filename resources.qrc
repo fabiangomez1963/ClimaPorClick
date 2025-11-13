@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ClimaPorClick">
+        <file>icon.png</file>
+    </qresource>
+</RCC>

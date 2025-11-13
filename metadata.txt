@@ -1,0 +1,16 @@
+[general]
+name=Clima por Click
+description=Consulta el clima actual haciendo clic en el mapa. Usa la API de OpenWeatherMap.
+version=1.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.40
+author=Fabián Gómez
+email=
+about=Permite obtener temperatura, viento, humedad y más con un clic en el mapa. Incluye guardado en GeoPackage y visualización en el lienzo.
+category=Analysis
+icon=icon.png
+homepage=
+tracker=
+repository=
+experimental=False
+deprecated=False
