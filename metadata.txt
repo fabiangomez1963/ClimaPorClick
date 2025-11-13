@@ -1,16 +1,13 @@
 [general]
 name=Clima por Click
-description=Consulta el clima actual haciendo clic en el mapa. Usa la API de OpenWeatherMap.
-version=1.0
 qgisMinimumVersion=3.22
-qgisMaximumVersion=3.40
+description=Obtiene datos del clima al hacer click en el mapa.
+version=1.1
 author=Fabián Gómez
-email=
-about=Permite obtener temperatura, viento, humedad y más con un clic en el mapa. Incluye guardado en GeoPackage y visualización en el lienzo.
-category=Analysis
-icon=icon.png
-homepage=
+email=gomezfabian63@hotmail.com
+about=Plugin QGIS para consultar múltiples APIs meteorológicas.
 tracker=
-repository=
+repository=https://github.com/fabiangomez1963/ClimaPorClick/
+icon=icon.png
+category=Plugins
 experimental=False
-deprecated=False
