@@ -1,12 +1,12 @@
 [general]
 name=Clima por Click
 qgisMinimumVersion=3.22
-description=Obtiene datos del clima al hacer click en el mapa.
-version=1.1
+description=Obtiene datos del clima al hacer click en el mapa. Soporta tiempo actual y pronósticos (24h, 36h, 48h).
+version=2.0
 author=Fabián Gómez
 email=gomezfabian63@hotmail.com
-about=Plugin QGIS para consultar múltiples APIs meteorológicas.
-tracker=
+about=Plugin QGIS para consultar múltiples APIs meteorológicas con pronósticos horarios.
+tracker=https://github.com/fabiangomez1963/ClimaPorClick/issues
 repository=https://github.com/fabiangomez1963/ClimaPorClick/
 icon=icon.png
 category=Plugins

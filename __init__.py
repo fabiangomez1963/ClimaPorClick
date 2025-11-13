@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-from .ClimaPorClick import ClimaPorClick
-
 def classFactory(iface):
-    """QGIS exige esta función."""
+    from .clima_por_click import ClimaPorClick
     return ClimaPorClick(iface)
